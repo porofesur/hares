@@ -1,1 +1,42 @@
 
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>porofesur</title>
+</head>
+<body dir="ltr">
+ <h1>  <ol> interdius porofesur
+    <li>
+        Name
+      <ul>
+        <li>
+            HaresRahmani
+        </li>
+      </ul>
+    </li>
+    </h1>
+   </ol>
+   <h1><p>his photo :</p></h1>
+   <img src="img/hh.jpeg" alt="porofesur" width="500px">
+   <h1><p>best song that i ever eard: </p></h1>
+   <video controls src= "vid/hag.mp4" width="300px"></video >
+   <h1> <p>his fevrite audio :</p></h1>
+    <audio controls src="vid/4_723784306722672283.mp3"></audio>
+
+    <h1>your idea</h1>
+    <form action="ggg.html">
+        <label>your Name</label>
+        <input type="text" placeholder="your Name"><br>
+        <label>your age</label>
+        <input type="number" placeholder="your age in number"><br>
+        <label>your email</label>
+        <input type="email" placeholder="your email"><br>
+        <label >your password</label>
+        <input type="password" placeholder="your password"><br>
+        <label>your comment</label>
+        <input type="text" placeholder="your idea"><br>
+        <input type="submit"><br>
+    </form>
+</body>
+</html>
